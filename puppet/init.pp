@@ -7,3 +7,4 @@ class init {
 
 include init
 include statsd
+include graphite
