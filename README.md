@@ -1,0 +1,1 @@
+#kale-vagrant : A vagrant provisioning for the [Kale stack](http://codeascraft.com/2013/06/11/introducing-kale/) which includes statsD, graphite and Skyline.
